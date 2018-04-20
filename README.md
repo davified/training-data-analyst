@@ -1,5 +1,9 @@
 # training-data-analyst 
 
+### Notes
+- To launch a datalab instance: datalab create mlsandbox --zone asia-southeast1-a
+- To reconnect to a datalab instance: datalab connect --zone asia-southeast1-a --port 8081 mlsandbox
+
 Labs and demos for Google Cloud Platform courses (http://cloud.google.com/training).
 
 ### Try out the code on Google Cloud Platform
